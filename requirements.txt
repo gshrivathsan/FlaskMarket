@@ -7,3 +7,4 @@ WTForms==2.3.3
 Gunicorn
 email-validator
 psycopg2-binary
+flask-migrate
